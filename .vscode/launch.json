@@ -5,6 +5,12 @@
     "version": "0.2.0",
     "configurations": [
         {
+            "name": "Dartpad",
+            "request": "launch",
+            "type": "dart",
+            "program": "lib/dartpad/main.dart"
+        },
+        {
             "name": "Cards",
             "request": "launch",
             "type": "dart",

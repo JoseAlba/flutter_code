@@ -18,13 +18,13 @@ class ExampleScreen extends StatelessWidget {
       ),
     );
   }
+}
 
-  void main() {
-    runApp(
-      MaterialApp(
-        debugShowCheckedModeBanner: false,
-        home: ExampleScreen(),
-      ),
-    );
-  }
+void main() {
+  runApp(
+    MaterialApp(
+      debugShowCheckedModeBanner: false,
+      home: ExampleScreen(),
+    ),
+  );
 }
