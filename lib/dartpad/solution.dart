@@ -1,5 +1,3 @@
-import 'package:flutter/material.dart';
-
 class ExampleScreen extends StatelessWidget {
   @override
   Widget build(BuildContext context) {
